@@ -10,8 +10,8 @@ const Banner = () => {
     return (
         <div className="carousel w-full h-[600px]">
             <div id="slide1" className="carousel-item relative w-full">
-                <img src={b1} className="w-full" />
-                <div className="absolute h-full flex items-center gap-5 transform  left-0 top-0 right-5 bg-gradient-to-r bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)]">
+                <img src={b1} className="w-full rounded-xl" />
+                <div className="absolute rounded-xl h-full flex items-center gap-5 transform  left-0 top-0 right-5 bg-gradient-to-r bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)]">
                     <div className="  text-white w-1/3 pl-5 space-y-5 ">
                         <h1 className="text-6xl font-bold">
                             Affordable Price For Car Servicing
@@ -22,9 +22,9 @@ const Banner = () => {
                             form
                         </p>
                         <div className="flex gap-4">
-                            <button className="btn btn-warning">Warning</button>
+                            <button className="btn btn-warning">Discover More</button>
                             <button className="btn btn-outline btn-warning">
-                                Warning
+                            Latest Project
                             </button>
                         </div>
                     </div>
@@ -39,8 +39,8 @@ const Banner = () => {
                 </div>
             </div>
             <div id="slide2" className="carousel-item relative w-full">
-                <img src={b2} className="w-full" />
-                <div className="absolute h-full flex items-center gap-5 transform  left-0 top-0 right-5 bg-gradient-to-r bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)]">
+                <img src={b2} className="w-full rounded-xl" />
+                <div className="absolute rounded-xl h-full flex items-center gap-5 transform  left-0 top-0 right-5 bg-gradient-to-r bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)]">
                     <div className="  text-white w-1/3 pl-5 space-y-5 ">
                         <h1 className="text-6xl font-bold">
                             Affordable Price For Car Servicing
@@ -51,9 +51,9 @@ const Banner = () => {
                             form
                         </p>
                         <div className="flex gap-4">
-                            <button className="btn btn-warning">Warning</button>
+                            <button className="btn btn-warning">Discover More</button>
                             <button className="btn btn-outline btn-warning">
-                                Warning
+                            Latest Project
                             </button>
                         </div>
                     </div>
@@ -68,8 +68,8 @@ const Banner = () => {
                 </div>
             </div>
             <div id="slide3" className="carousel-item relative w-full">
-                <img src={b3} className="w-full" />
-                <div className="absolute h-full flex items-center gap-5 transform  left-0 top-0 right-5 bg-gradient-to-r bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)]">
+                <img src={b3} className="w-full rounded-xl" />
+                <div className="absolute rounded-xl h-full flex items-center gap-5 transform  left-0 top-0 right-5 bg-gradient-to-r bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)]">
                     <div className="  text-white w-1/3 pl-5 space-y-5 ">
                         <h1 className="text-6xl font-bold">
                             Affordable Price For Car Servicing
@@ -80,9 +80,9 @@ const Banner = () => {
                             form
                         </p>
                         <div className="flex gap-4">
-                            <button className="btn btn-warning">Warning</button>
+                            <button className="btn btn-warning">Discover More</button>
                             <button className="btn btn-outline btn-warning">
-                                Warning
+                            Latest Project
                             </button>
                         </div>
                     </div>
@@ -97,8 +97,8 @@ const Banner = () => {
                 </div>
             </div>
             <div id="slide4" className="carousel-item relative w-full">
-                <img src={b4} className="w-full" />
-                <div className="absolute h-full flex items-center gap-5 transform  left-0 top-0 right-5 bg-gradient-to-r bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)]">
+                <img src={b4} className="w-full rounded-xl" />
+                <div className="absolute rounded-xl h-full flex items-center gap-5 transform  left-0 top-0 right-5 bg-gradient-to-r bg-gradient-to-r from-[#151515] to-[rgba(21, 21, 21, 0.00)]">
                     <div className="  text-white w-1/3 pl-5 space-y-5 ">
                         <h1 className="text-6xl font-bold">
                             Affordable Price For Car Servicing
@@ -109,9 +109,9 @@ const Banner = () => {
                             form
                         </p>
                         <div className="flex gap-4">
-                            <button className="btn btn-warning">Warning</button>
+                            <button className="btn btn-warning">Discover More</button>
                             <button className="btn btn-outline btn-warning">
-                                Warning
+                            Latest Project
                             </button>
                         </div>
                     </div>
